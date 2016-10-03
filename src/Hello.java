@@ -7,6 +7,7 @@ public class Hello {
 		lyrics=lyrics.replace("it","\"her\"");
 		lyrics=lyrics.replace("Cannot","Can't");
 		System.out.println(lyrics);
+		
 	}
 
 }
